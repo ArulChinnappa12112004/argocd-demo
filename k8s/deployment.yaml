@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: argocd-demo
-          image: arulchinnappa12112004/argocd-demo:v1
+          image: arulchinnappa12112004/argocd-demo:v2
           imagePullPolicy: IfNotPresent
 
           ports:
